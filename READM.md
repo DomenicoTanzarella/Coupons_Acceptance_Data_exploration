@@ -42,7 +42,7 @@ The attributes of this data set include:
 
 The dataset has 12684 entries with 26 Data columns:
 
-    Column          Non-Null Count  Dtype 
+    C          Non-Null Count  Dtype 
     
  0   destination              12684 non-null  object
  
