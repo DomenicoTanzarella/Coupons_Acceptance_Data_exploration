@@ -132,7 +132,7 @@ Also, I  replace NaN values for  **CoffeeHouse**,  **CarryAway**,  **RestaurantL
 
 The acceptance rate of people going to a bar depends on how many times they go to the bar in a month. The more they go, the highest is the acceptance rate. 
 
--We analyze also the coffe house coupons, finding that people with higher probability of accepting coupons are:
+We analyze also the coffe house coupons, finding that people with higher probability of accepting coupons are:
    -   young customers
    -   frequent customers
    -   non widowed
