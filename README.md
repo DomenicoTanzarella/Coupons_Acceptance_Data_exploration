@@ -41,8 +41,6 @@ The attributes of this data set include:
 ##  Early data exploration report
 
 The dataset has 12684 entries with 26 Data columns:
-
-    C          Non-Null Count  Dtype 
     
  0   destination              12684 non-null  object
  
