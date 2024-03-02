@@ -124,15 +124,15 @@ Also,  **RestaurantLessThan20**  and  **Restaurant20To50**  ,  **carryaway**  ne
 For missing data, we can definitely drop  **car**  column. 
 Also, I  replace NaN values for  **CoffeeHouse**,  **CarryAway**,  **RestaurantLessThan20**  and  **Restaurant20To50**  either with average values or the most probable ones (depending on the percentage missing)
 
-# Data Exploation
+# Data Exploration
 
-- We will start figuring out the proportion of couponse accepted by type of coupon
+- We will start figuring out the proportion of coupons accepted by type of coupon
 
 - Then we will analyze Bar Coupons finding the following:
 
-The acceptance rate of people going to a bar depends on how many times they go to the bar in a month. The more they go, the highest is the acceptance rate. 
+The acceptance rate of people going to a bar depends on how many times they go to the bar in a month: the more they go, the highest is the acceptance rate. 
 
-We analyze also the coffe house coupons, finding that people with higher probability of accepting coupons are:
+We analyze also the coffee house coupons, finding that people with higher coupons acceptance rate are:
    -   young customers
    -   frequent customers
    -   non widowed
