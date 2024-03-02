@@ -42,57 +42,57 @@ The attributes of this data set include:
 
 The dataset has 12684 entries with 26 Data columns:
     
- -   destination              12684 non-null  object
+ -   destination       with       12684 non-null  object
  
- -   passanger                12684 non-null  object
+ -   passanger        with        12684 non-null  object
  
- -   weather                   12684 non-null  object
+ -   weather         with          12684 non-null  object
  
- -   temperature            12684 non-null  int64 
+ -   temperature    with        12684 non-null  int64 
  
- -   time                         12684 non-null  object
+ -   time           with         12684 non-null  object
  
- -   coupon                    12684 non-null  object
+ -   coupon         with        12684 non-null  object
  
- -   expiration               12684 non-null  object
+ -   expiration    with           12684 non-null  object
  
- -   gender                    12684 non-null  object
+ -   gender        with            12684 non-null  object
  
- -   age                          12684 non-null  object
+ -   age          with                12684 non-null  object
  
- -   maritalStatus         12684 non-null  object
+ -   maritalStatus    with     12684 non-null  object
  
- -  has_children         12684 non-null  int64 
+ -  has_children    with     12684 non-null  int64 
  
- -  education             12684 non-null  object
+ -  education      with       12684 non-null  object
  
- -  occupation           12684 non-null  object
+ -  occupation    with       12684 non-null  object
  
- -  income                 12684 non-null  object
+ -  income        with         12684 non-null  object
  
- -  car                            108 non-null    object
+ -  car          with                  108 non-null    object
  
- -  Bar                       12577 non-null  object
+ -  Bar         with              12577 non-null  object
  
- -  CoffeeHouse       12467 non-null  object
+ -  CoffeeHouse     with  12467 non-null  object
  
- -  CarryAway          12533 non-null  object
+ -  CarryAway      with    12533 non-null  object
  
- -  RestaurantLessThan20  12554 non-null  object
+ -  RestaurantLessThan20 with 12554 non-null  object
  
- -  Restaurant20To50         12495 non-null  object
+ -  Restaurant20To50   with      12495 non-null  object
  
- -  toCoupon_GEQ5min     12684 non-null  int64 
+ -  toCoupon_GEQ5min  with   12684 non-null  int64 
  
- -  toCoupon_GEQ15min    12684 non-null  int64 
+ -  toCoupon_GEQ15min  with  12684 non-null  int64 
  
- -  toCoupon_GEQ25min    12684 non-null  int64 
+ -  toCoupon_GEQ25min  with  12684 non-null  int64 
 
- -  direction_same        12684 non-null  int64 
+ -  direction_same   with     12684 non-null  int64 
  
- -  direction_opp         12684 non-null  int64 
+ -  direction_opp    with     12684 non-null  int64 
  
- -  Y                               12684 non-null  int64
+ -  Y                    with           12684 non-null  int64
 
 We have only two data types that are are 'object' and 'int64'.
   
