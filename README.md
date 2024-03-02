@@ -97,7 +97,7 @@ The dataset has 12684 entries with 26 Data columns:
 We have only two data types that are are 'object' and 'int64'.
   
 
-## look for MISSING DATA
+## MISSING DATA
 
 We have six data columns with missing data:
 
