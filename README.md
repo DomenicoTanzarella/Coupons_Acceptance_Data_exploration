@@ -101,17 +101,17 @@ We have only two data types that are are 'object' and 'int64'.
 
 We have six data columns with missing data:
 
-car                                        12576
+- car:                                        12576
 
-Bar                                          107
+- Bar:                                          107
 
-CoffeeHouse                                  217
+- CoffeeHouse:                                  217
 
-CarryAway                                    151
+- CarryAway:                                    151
 
-RestaurantLessThan20                         130
+- RestaurantLessThan20:                         130
 
-Restaurant20To50                             189
+- Restaurant20To50:                             189
 
 # Data Preparation and cleansing
 
